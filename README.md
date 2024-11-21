@@ -1,6 +1,6 @@
 # House-Staff
 
-Практиковался на основе урокок <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=gHnnM8yoUr2GbI2T&amp;list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Практиковался на основе уроков Гошы Дударь https://youtube.com/playlist?list=PL0lO_mIqDDFVfIjOW2NsBaDYXB_ZwDB0p&si=wDygA_GkRup0mwUM
 
 Онлайн машазин мебели для дома
 
